@@ -1,0 +1,2 @@
+st = "qwerty"
+print (st[:::])

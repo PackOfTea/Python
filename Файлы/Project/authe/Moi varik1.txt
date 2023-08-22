@@ -1,0 +1,9 @@
+if login = a: 
+	
+elif pas = b:
+	
+else:
+	print("IDI NAHUI!!")
+	
+	lg = a and ps = b
+		return a, b
